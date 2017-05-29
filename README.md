@@ -1,6 +1,6 @@
 **Hybrid SDK**
 
-The SDK provides a secure way to call code running on your local machine inside a chatbot. Your code can be connecting to your Enterprise Information Systems to process a businss function.
+The SDK provides a secure way to call the code running on your local machine inside a chatbot. Your code can be connecting to your Enterprise Information Systems to process a business function.
 
 ****Key Advantages****
 1. The hybrid SDK does not require you to develop any SOAP/REST services.

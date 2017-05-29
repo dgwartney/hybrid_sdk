@@ -12,6 +12,7 @@
   "author": "Jebin",
   "license": "MIT",
   "dependencies": {
+    "https-proxy-agent": "^1.0.0",
     "promise": "^7.1.1",
     "ws": "^3.0.0"
   }
