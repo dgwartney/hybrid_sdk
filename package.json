@@ -4,7 +4,7 @@
   "description": "Hybrid SDK",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "avaamo"
@@ -12,7 +12,9 @@
   "author": "Jebin",
   "license": "MIT",
   "dependencies": {
+    "documentation": "^8.1.2",
     "https-proxy-agent": "^1.0.0",
+    "mocha": "^5.2.0",
     "promise": "^7.1.1",
     "ws": "^3.0.0"
   }
